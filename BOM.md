@@ -1,4 +1,4 @@
-Z-Axis - $67.92 before shipping
+Z-Axis - $125.68 before shipping
 
 * [300mm Linear rail and lead screw kit](https://www.amazon.com/Mergorun-Horizontal-Bearings-coordinate-equipment/dp/B06XP7HPLQ/ref=pd_sbs_60_29?_encoding=UTF8&pd_rd_i=B06XP7HPLQ&pd_rd_r=SZ3G92NTD90MZG8VX32C&pd_rd_w=Ojo8X&pd_rd_wg=Pi8E4&psc=1&refRID=SZ3G92NTD90MZG8VX32C) - Amazon - $35.99
 
@@ -14,23 +14,23 @@ Z-Axis - $67.92 before shipping
 
 * 2x 1/4-20 x 1 1/2" hex cap screws, with nylock nut and washers
 
-* 12x 10-32 x 3/4" Pan Head Machine Screws
+* 12x 10-32 x 3/4" Pan Head Machine Screws 
 
-* [16x M4 x 0.7 x 30mm Pan Head Machine Screws](https://www.homedepot.com/p/Everbilt-M4-0-7-x-30-mm-Phillips-Pan-Head-Zinc-Plated-Machine-Screw-2-Pack-802908/204282670) - linked pack is 2x per pack, order 8x for needed quantity. 
+* [16x M4 x 0.7 x 30mm Pan Head Machine Screws](https://www.homedepot.com/p/Everbilt-M4-0-7-x-30-mm-Phillips-Pan-Head-Zinc-Plated-Machine-Screw-2-Pack-802908/204282670) - linked pack is 2x per pack, order 8x for needed quantity. - $6.88
 
 Spindle Clamps:
 
-* [8x 3/8"-16 Heat set threaded inserts](https://www.mcmaster.com/93365A310/)
+* [8x 3/8"-16 Heat set threaded inserts](https://www.mcmaster.com/93365A310/) - $9.90
 
-* [4x 3/8"-16 x 3/4" Socket Cap screws](https://www.mcmaster.com/91251A622/)
+* [4x 3/8"-16 x 3/4" Socket Cap screws](https://www.mcmaster.com/91251A622/) - $8.97
 
-* [4x 3/8"-16 x 3/4" Flat Head screws](https://www.mcmaster.com/90273A439/)
+* [4x 3/8"-16 x 3/4" Flat Head screws](https://www.mcmaster.com/90273A439/) - $13.45
 
 
 Dust Hood:
 
 * [3x 10-32 Heat-set Insert](https://www.amazon.com/initeq-Threaded-Inserts-Printing-Plastic/dp/B07B9P9R3B/ref=sr_1_11?keywords=Tapered%2BHeat-Set%2BInserts&qid=1570688347&sr=8-11&th=1) - Amazon - $8.49
 
-* 3x 10-32 x 5/16" Flat head Machine screws
+* [3x 10-32 x 5/16" Flat head Machine screws]. (https://www.amazon.com/Stainless-Machine-Finish-Phillips-Threads/dp/B00137N8P8/ref=sr_1_9?dchild=1&keywords=Screws&pd_rd_r=7a4ee9e8-c9a5-4386-b865-5a11690a88cc&pd_rd_w=y4WCr&pd_rd_wg=Sbs3s&pf_rd_p=b4950e17-f2f6-494c-bba5-69a9d0aa3887&pf_rd_r=WHA2MZ7Z4BT4FKXQZB2Y&pid=QcZrKuF&qid=1622668429&refinements=p_n_feature_fourteen_browse-bin%3A11433964011%2Cp_n_feature_two_browse-bin%3A2292860011%2Cp_n_feature_twenty-eight_browse-bin%3A19043645011&s=industrial&sr=1-9) - $10.07
 
 * Some form of plastic glue or epoxy to help glue the chute and body of the hood together.
